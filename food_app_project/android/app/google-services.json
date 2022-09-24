@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66889889339",
+    "firebase_url": "https://foodlogin-a2b5e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foodlogin-a2b5e",
+    "storage_bucket": "foodlogin-a2b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66889889339:android:e8d9e7ad7b81d248d10e1e",
+        "android_client_info": {
+          "package_name": "com.example.food_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66889889339-l6840dqj4crtiinfiqhn4uih408lfj8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5vTVhWdyWVvwOkD1jYWKhoxV_PEiZ0os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66889889339-l6840dqj4crtiinfiqhn4uih408lfj8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
